@@ -5,7 +5,7 @@
   - Stateful and stateless servers : 🖐️ used
   - Nonblocking I/O and slocking code : 👂 heard
   - Event loop: phases : 🖐️ used
-  - Event loop: microtasks and macrotasks : 👂 heard
+  - Event loop: microtasks and macrotasks : 🖐️ used
   - Garbage collection : 🖐️ used
   - Node.js LTS schedule : 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks : 🖐️ used
@@ -14,12 +14,12 @@
   - CommonJS modules : 🖐️ used
   - ECMAScript modules : 🖐️ used
   - node:module : 🖐️ used
-  - Caching in CJS and ESM
+  - Caching in CJS and ESM : 👂 heard
   - Modules as singletons : 👂 heard
   - Contexts and scripts node:vm : 👂 heard
   - Dependencies: npm, node_modules : 🖐️ used
   - Dependencies: package.json and package lock : 🖐️ used
-  - Module-based permissions model : 👂 heard
+  - Module-based permissions model : 🖐️ used
   - Isolation with modularity : 👂 heard
   - Dependency injection : 🖐️ used
   - DI containers : 👂 heard
@@ -28,7 +28,7 @@
 - Environment
   - Command line arguments : 🖐️ used
   - Node.js CLI : 🖐️ used
-  - Process-based permissions : 👂 heard
+  - Process-based permissions : 🖐️ used
   - Graceful shutdown : 🖐️ used
   - Clustering : 🖐️ used
   - Watch filesystem changes with --watch : 🖐️ used
@@ -39,13 +39,13 @@
   - Password hashing with node:crypto.scrypt : 🖐️ used
   - Web Crypto API : 👂 heard
   - File system API: sync and async : 🖐️ used
-  - Copy folder recursivelyv : 👂 heard
+  - Copy folder recursively : 👂 heard
   - Worker threads : 🖐️ used
   - Performance hooks : 👂 heard
   - Native fetch and nodejs/undici : 👂 heard
   - node:async_hooks : 🖐️ used
   - AsyncLocalStorage : 🖐️ used
-  - AsyncResource : 👂 heard
+  - AsyncResource : 🖐️ used
   - Deprecated domain API : 👂 heard
   - Node.js single executable : 🖐️ used
   - Stream back pressure : 👂 heard
@@ -69,9 +69,9 @@
   - GRASP : 🙋 explained
   - SOLID : 🙋 explained
   - GoF patterns : 🙋 explained
-  - Distributed systems : 👂 heard
-  - Highload applications : 👂 heard
-  - Clean architecture : 👂 heard
+  - Distributed systems : 🖐️ used
+  - Highload applications : 🖐️ used
+  - Clean architecture : 🖐️ used
   - DDD : 👂 heard
   - Message Queue : 👂 heard
   - CQS : 👂 heard
@@ -84,7 +84,7 @@
   - GoF for Node.js : 🖐️ used
   - Leaking abstractions : 👂 heard
 - Network
-  - IP sticky sessions : 👂 heard
+  - IP sticky sessions : 🖐️ used
   - Endpoint throttling : 👂 heard
   - HTTP(S) : 🖐️ used
   - TCP/SSL : 🖐️ used
@@ -94,7 +94,7 @@
   - SSE : 👂 heard
   - HTTP/3 (QUIC) : 🖐️ used
   - Long polling : 👂 heard
-  - REST : 👂 heard
+  - REST : 🖐️ used
   - RPC : 👂 heard
   - Routing : 🖐️ used
   - DoS : 👂 heard

@@ -5,18 +5,18 @@
   - try..catch :🙋 explained
   - Non-blocking :🙋 explained
   - Async I/O :🙋 explained
-  - Thread pool : 👂 heard
+  - Thread pool : 🖐️ used
   - Pattern Reactor : 👂 heard
   - CAS operations : 👂 heard
   - epoll : 👂 heard
-  - kqueue : 👂 heard
+  - kqueue : 🖐️ used
   - Completion ports :🙋 explained
   - Event ports :🙋 explained
   - libuv : 👂 heard
   - Race conditions :🙋 explained
-  - Dead locks : 👂 heard
-  - Live locks : 👂 heard
-  - Concurrent programming : 👂 heard
+  - Dead locks : 🖐️ used
+  - Live locks : 🖐️ used
+  - Concurrent programming : 🖐️ used
   - Parallel programming :🙋 explained
   - Actor Model : 👂 heard
   - Thread :🙋 explained
@@ -41,9 +41,9 @@
   - Middleware :🙋 explained
   - Locks :🙋 explained
 - Async adapters and utils
-  - callbackify : 👂 heard
-  - promisify : 👂 heard
-  - asyncify : 👂 heard
+  - callbackify : 🖐️ used
+  - promisify : 🖐️ used
+  - asyncify : 🖐️ used
   - callbacks compose : 👂 heard
   - async compose : 👂 heard
 - Async abstractions interfaces
@@ -52,9 +52,9 @@
   - Readable :🙋 explained
   - Writable :🙋 explained
   - Transform : 👂 heard
-  - Async Pool : 👂 heard
-  - Async Queue : 👂 heard
-  - Async Collector : 👂 heard
+  - Async Pool : 🖐️ used
+  - Async Queue : 🖐️ used
+  - Async Collector : 🖐️ used
   - Semaphore :🙋 explained
   - Mutex  : 👂 heard
   - Spin Lock  : 👂 heard
@@ -64,32 +64,32 @@
   - nextTick :🙋 explained
   - AbortController :🙋 explained
   - AbortSignal  : 👂 heard
-  - Promise unhandled rejection : 👂 heard
+  - Promise unhandled rejection : 🖐️ used
   - Promise double resolve : 🖐️ used
   - child_process : 🖐️ used
   - worker_threads: 🖐️ used
   - Atomics : 👂 heard
-  - High resolution clock
+  - High resolution clock : 👂 heard
   - Callback hell : 🖐️ used
   - Promise hell : 🖐️ used
   - ref() and unref() : 🖐️ used
   - Error handling in async code : 🖐️ used
   - Better stack traces with return await : 🖐️ used
   - JSON: streaming serialization : 🖐️ used
-  - promisify : 👂 heard
-  - callbackify : 👂 heard
+  - promisify : 🖐️ used
+  - callbackify : 🖐️ used
   - AsyncLocalStorage : 🖐️ used
   - AsyncResource : 🖐️ used
 - Techniques
   - async.js library : 🖐️ used
   - RxJS library : 🖐️ used
-  - Async composition
+  - Async composition : 🖐️ used
   - Promise.all : 🖐️ used
   - Promise.allSettled : 🖐️ used
   - Promise.race : 🖐️ used
   - Promise.any : 🖐️ used
   - Web Locks API : 👂 heard
   - IPC : 👂 heard
-  - Channel API : 👂 heard
+  - Channel API : 🖐️ used
   - Revealing Constructor : 👂 heard
   - Web Locks API : 👂 heards
